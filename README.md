@@ -7,7 +7,7 @@ To address the modeling challenges in both homogeneous and heterogeneous graph s
 The organic integration of these five core modules substantially enhances the framework's graph representation learning capabilities, enabling effective performance on both homophilous and heterophilous networks.
 ### 1.1 Framework
 
-![ResDW-GNN](./model.pdf)
+![ResDW-GNN](ResDW-GNN/model.pdf)
 
 ## 2. Code Link
 You can download code from 
