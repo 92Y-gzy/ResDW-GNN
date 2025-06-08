@@ -9,7 +9,13 @@ The organic integration of these five core modules substantially enhances the fr
 
 ![ResDW-GNN](model.pdf)
 
-## 2. Requirements
+## 2. Code Link
+You can download code from 
+[link](https://pan.baidu.com/s/1Lp31eiGNpt8NBGof63-5TA?pwd=gzy2), 
+password: gzy2 
+
+
+## 3. Requirements
 
 pip install -r requirements.txt
 ```
@@ -18,7 +24,7 @@ torch-geometric
 dgl
 ```
 
-## 3. Train Model
+## 4. Train Model
 You can run ```train.py``` to train **ResDW-GNN** in default settings on ```Cora```. 
 
 Or run:
@@ -29,6 +35,6 @@ $ python train.py --dataset cora
 
 You can modify the hyper-parameters settings in ```config.py```.
 
-## 4. Contact
+## 5. Contact
 
 Please contact **Zhangyu Gu** (guzhangyu@hdu.edu.cn) if you have any question about this code.
